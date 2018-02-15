@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:minHeight="50dp"
+    >
+
+    <TextView
+        android:id="@+id/Date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Date" />
+
+    <TextView
+        android:id="@+id/Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_weight="0.01"
+        android:layout_marginLeft="10dp"
+        android:text="Time" />
+
+    <TextView
+        android:id="@+id/Session"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="13"
+        android:layout_marginLeft="13dp"
+        android:text="Session" />
+
+</LinearLayout>
