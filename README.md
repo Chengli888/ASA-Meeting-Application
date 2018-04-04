@@ -13,3 +13,6 @@ Android App for American Society of Andrology conference :
 video that show this project:
 
 https://drive.google.com/open?id=1eUIN3Su7pLqJwZGjIXKqo2fDwYrNupQk
+
+Hope you can click the link below and go to andrologysociety office website to see the instruction about this application and download it.
+https://andrologysociety.org/meetings/asa-annual-meeting/future-meetings/2018-meeting-app.aspx
